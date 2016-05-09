@@ -1,0 +1,550 @@
+# Copyright (C) 2014 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2014-09-11 00:43:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:30
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:22
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:40
+msgid "Asides"
+msgstr ""
+
+#: archive.php:43
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:46
+msgid "Images"
+msgstr ""
+
+#: archive.php:49
+msgid "Videos"
+msgstr ""
+
+#: archive.php:52
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:55
+msgid "Links"
+msgstr ""
+
+#: archive.php:58
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:61
+msgid "Audios"
+msgstr ""
+
+#: archive.php:64
+msgid "Chats"
+msgstr ""
+
+#: archive.php:67
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+msgid "Reply"
+msgstr ""
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:67
+msgid "Name *"
+msgstr ""
+
+#: comments.php:68
+msgid "Email *"
+msgstr ""
+
+#: comments.php:69
+msgid "Website"
+msgstr ""
+
+#: comments.php:71
+msgid " Required fields are marked "
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:76
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:77
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:78
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:79
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:80
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:81
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:82
+msgid "Comment *"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:28 content-single.php:30
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:39 content.php:46 inc/template-tags.php:123
+msgid "Edit"
+msgstr ""
+
+#: content.php:45
+msgid "Read More"
+msgstr ""
+
+#: footer.php:14
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:14
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:16
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:91
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:35
+msgid "Search for:"
+msgstr ""
+
+#: header.php:36
+msgid "Type here and hit enter..."
+msgstr ""
+
+#: header.php:39
+msgid "Close"
+msgstr ""
+
+#: header.php:45
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:54
+msgid "Main Menu"
+msgstr ""
+
+#: inc/annina-dynamic.php:41
+msgid "Box Text Color"
+msgstr ""
+
+#: inc/annina-dynamic.php:47
+msgid "Header Background"
+msgstr ""
+
+#: inc/annina-dynamic.php:53
+msgid "Box Background Color"
+msgstr ""
+
+#: inc/annina-dynamic.php:59
+msgid "Special Color"
+msgstr ""
+
+#: inc/extras.php:64
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older Posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Next Post:"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "<i class=\"fa fa-calendar spaceRight\"></i>%s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "<i class=\"fa fa-user spaceLeftRight\"></i>%s"
+msgstr ""
+
+#: inc/template-tags.php:95 inc/template-tags.php:118
+msgid " / "
+msgstr ""
+
+#: inc/template-tags.php:97
+#, php-format
+msgid "<i class=\"fa fa-folder-open-o spaceLeftRight\"></i>%1$s"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgid "No Comments"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:120
+#, php-format
+msgid "<i class=\"fa fa-tags spaceRight\"></i>%1$s"
+msgstr ""
+
+#: inc/theme-options.php:24 inc/theme-options.php:48
+msgid "Annina Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:61
+msgid " Free Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:64
+msgid "Need more features and options? Upgrade to PRO!"
+msgstr ""
+
+#: inc/theme-options.php:65
+msgid "Get"
+msgstr ""
+
+#: inc/theme-options.php:65
+msgid "Annina PRO"
+msgstr ""
+
+#: inc/theme-options.php:65
+msgid "WordPress Theme for only"
+msgstr ""
+
+#: inc/theme-options.php:67
+msgid "Demo (Annina PRO)"
+msgstr ""
+
+#: inc/theme-options.php:69
+msgid "Get The Pro Version"
+msgstr ""
+
+#: inc/theme-options.php:73
+msgid "Advanced Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:73
+msgid ""
+"(Manage Loading Page, Additional Custom Code, Font switcher and much more...)"
+msgstr ""
+
+#: inc/theme-options.php:74
+msgid "Logo and Favicon Upload"
+msgstr ""
+
+#: inc/theme-options.php:75
+msgid "Unlimited Colors and Skin"
+msgstr ""
+
+#: inc/theme-options.php:76
+msgid "Post views counter"
+msgstr ""
+
+#: inc/theme-options.php:77
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/theme-options.php:78
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:79
+msgid "7 Shortcodes"
+msgstr ""
+
+#: inc/theme-options.php:79
+msgid "(Toggle, Tabs, Boxes, Columns, Highlights, Buttons and Drop Cap)"
+msgstr ""
+
+#: inc/theme-options.php:80
+msgid "11 Exclusive Widgets"
+msgstr ""
+
+#: inc/theme-options.php:80
+msgid ""
+"(Latest Tweet, Instagram, Social Buttons, Recent Posts with Thumbnail and "
+"Most Commented Posts...)"
+msgstr ""
+
+#: inc/theme-options.php:81
+msgid "Related Posts Box"
+msgstr ""
+
+#: inc/theme-options.php:82
+msgid "Information About Author Box"
+msgstr ""
+
+#: inc/theme-options.php:83
+msgid "Advertising system"
+msgstr ""
+
+#: inc/theme-options.php:84
+msgid "And much more..."
+msgstr ""
+
+#: inc/theme-options.php:89
+msgid ""
+"These options will let you setup the social icons at the bottom of the "
+"theme. You can enter the URLs of your profiles to have the icons show up."
+msgstr ""
+
+#: inc/theme-options.php:91
+msgid "Options saved"
+msgstr ""
+
+#: inc/theme-options.php:106
+msgid "Last post box big?"
+msgstr ""
+
+#: inc/theme-options.php:109
+msgid "Enable it if you want the last post box big"
+msgstr ""
+
+#: inc/theme-options.php:118
+msgid "Hide Search Button?"
+msgstr ""
+
+#: inc/theme-options.php:121
+msgid "Hide the Search button?"
+msgstr ""
+
+#: inc/theme-options.php:130
+msgid "Enter your Facebook URL"
+msgstr ""
+
+#: inc/theme-options.php:133
+msgid "Leave blank to hide Facebook Icon"
+msgstr ""
+
+#: inc/theme-options.php:142
+msgid "Enter your Twitter URL"
+msgstr ""
+
+#: inc/theme-options.php:145
+msgid "Leave blank to hide Twitter Icon"
+msgstr ""
+
+#: inc/theme-options.php:154
+msgid "Enter your Google + URL"
+msgstr ""
+
+#: inc/theme-options.php:157
+msgid "Leave blank to hide Google + Icon"
+msgstr ""
+
+#: inc/theme-options.php:166
+msgid "Enter your Linkedin URL"
+msgstr ""
+
+#: inc/theme-options.php:169
+msgid "Leave blank to hide Linkedin Icon"
+msgstr ""
+
+#: inc/theme-options.php:178
+msgid "Enter your Instagram URL"
+msgstr ""
+
+#: inc/theme-options.php:181
+msgid "Leave blank to hide Instagram Icon"
+msgstr ""
+
+#: inc/theme-options.php:190
+msgid "Enter your YouTube URL"
+msgstr ""
+
+#: inc/theme-options.php:193
+msgid "Leave blank to hide YouTube Icon"
+msgstr ""
+
+#: inc/theme-options.php:202
+msgid "Enter your Pinterest URL"
+msgstr ""
+
+#: inc/theme-options.php:205
+msgid "Leave blank to hide Pinterest Icon"
+msgstr ""
+
+#: inc/theme-options.php:214
+msgid "Enter your VK URL"
+msgstr ""
+
+#: inc/theme-options.php:217
+msgid "Leave blank to hide VK Icon"
+msgstr ""
+
+#: inc/theme-options.php:226
+msgid "Enter your Email"
+msgstr ""
+
+#: inc/theme-options.php:229
+msgid "Leave blank to hide Email Icon"
+msgstr ""
+
+#: inc/theme-options.php:236
+msgid "Save Options"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
